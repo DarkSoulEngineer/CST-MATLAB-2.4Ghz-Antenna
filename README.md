@@ -16,4 +16,4 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/xdarksoulEngineer/CST-MATLAB-2.4Ghz-Antenna/master/app/img/Antenna.png)
+![screenshot](https://raw.githubusercontent.com/xdarksoulEngineer/CST-MATLAB-2.4Ghz-Antenna/master/images/Antenna.png)
